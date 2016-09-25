@@ -8,6 +8,5 @@ namespace Foradev
 {
     public class Constantes
     {
-        //TODO
     }
 }
